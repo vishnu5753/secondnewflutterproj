@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767112312418",
+    "project_id": "secondfirebase-7b4cb",
+    "storage_bucket": "secondfirebase-7b4cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767112312418:android:0648b0a0d63f8244eb433b",
+        "android_client_info": {
+          "package_name": "com.example.secondnewflutterproj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO7lNG8Bt3X1xdi7eGlGmC1Wl043CyEvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
